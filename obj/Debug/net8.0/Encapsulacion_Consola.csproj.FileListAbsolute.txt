@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Encapsulacion_Consola\bin\Debug\net8.0\Encapsulacion_Consola.exe
+C:\Users\gabri\source\repos\Encapsulacion_Consola\bin\Debug\net8.0\Encapsulacion_Consola.deps.json
+C:\Users\gabri\source\repos\Encapsulacion_Consola\bin\Debug\net8.0\Encapsulacion_Consola.runtimeconfig.json
+C:\Users\gabri\source\repos\Encapsulacion_Consola\bin\Debug\net8.0\Encapsulacion_Consola.dll
+C:\Users\gabri\source\repos\Encapsulacion_Consola\bin\Debug\net8.0\Encapsulacion_Consola.pdb
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.dll
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\refint\Encapsulacion_Consola.dll
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.pdb
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\ref\Encapsulacion_Consola.dll
