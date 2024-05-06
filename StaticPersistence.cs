@@ -14,6 +14,7 @@ namespace Encapsulacion_Consola
         {
             Product newProduct = new Product(name, price);
             products.Add(newProduct);
+            
         }
         public static Item CreateItem(Product product, int quantity) 
          {

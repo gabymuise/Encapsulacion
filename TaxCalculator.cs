@@ -14,13 +14,13 @@ namespace Encapsulacion.Models
 
         public double GetTaxRate(string country, string state)
         {
-            if (country == "US")
+            if (state == "US")
             {
-                return GetUSTax(country);
+                return GetUSTax(state);
             }
-            else if (state == "EU") 
+            else if (country == "EU") 
             {
-                return GetEUTax(state);
+                return GetEUTax(country);
             }
             else
             {
@@ -29,12 +29,12 @@ namespace Encapsulacion.Models
             }
         }
 
-        private double GetUSTax(string country)
+        private double GetUSTax(string state)
         {
             return USTaxRate;
         }
 
-        private double GetEUTax(string state)
+        private double GetEUTax(string country)
         {
             return EUTaxRate;
         }

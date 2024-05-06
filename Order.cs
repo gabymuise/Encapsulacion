@@ -1,4 +1,5 @@
 ﻿using Encapsulacion.Models;
+using System.ComponentModel.Design;
 
 namespace Encapsulacion_Consola
 {
@@ -15,14 +16,17 @@ namespace Encapsulacion_Consola
             // Supongamos que el argumento puede ser un país o un estado
             // Si es un país, asignamos el valor a la propiedad Country
             // Si es un estado, asignamos el valor a la propiedad State
-            if (location == "US")
+            if (location == "EU")
             {
                 Country = location;
             }
+            else if(location == "US")
+            {
+                State = location;
+            }
             else
             {
-                location = "EU";
-                State = location;
+                Country = location;
             }
         }
 

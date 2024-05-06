@@ -17,7 +17,7 @@ public class Program
 
         TaxCalculator calculator = new TaxCalculator();
 
-        Order order = new Order("US");
+        Order order = new Order("CHINA");
 
         order.LineItems.Add(item1);
         order.LineItems.Add(item2);

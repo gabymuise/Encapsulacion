@@ -12,3 +12,4 @@ C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\refint\Encaps
 C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.pdb
 C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.genruntimeconfig.cache
 C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\ref\Encapsulacion_Consola.dll
+C:\Users\gabri\source\repos\Encapsulacion_Consola\obj\Debug\net8.0\Encapsulacion_Consola.sourcelink.json
